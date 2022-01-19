@@ -1,0 +1,23 @@
+h1 {
+    margin: 0;
+    text-align: center;
+}
+
+.contador {
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: center;   
+}
+
+input {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+
+h2 {
+    width: 50px;
+    justify-content: center;
+    margin-left: 36px;
+}
